@@ -1,0 +1,3 @@
+Use the MythrilAlt as Mythril
+Use Orginal Mythril as Iron
+Use Orginal Iron as Steel
